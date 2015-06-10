@@ -1,4 +1,4 @@
 bashrc
 ======
 
-bachrc for linux console
+bashrc for linux console
